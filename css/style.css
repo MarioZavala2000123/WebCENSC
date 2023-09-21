@@ -578,22 +578,22 @@ button {
 /** mobile section **/
 
 
-/** clients section **/
+/** services section **/
 
-.clients {
+.services {
      margin-top: 40px;
      padding-top: 60px;
 }
 
-.clients .titlepage h2 {
+.services .titlepage h2 {
      color: #202021;
 }
 
-.clients .titlepage span {
+.services .titlepage span {
      margin-left: 56px;
 }
 
-.clients_box {
+.services_box {
      text-align: center;
      background: #e2e3e3;
      padding: 50px 15px;
@@ -601,12 +601,12 @@ button {
      position: relative;
 }
 
-.clients_box p {
+.services_box p {
      font-size: 17px;
      line-height: 35px;
 }
 
-.clients_box::after {
+.services_box::after {
      position: absolute;
      content: "";
      width: 42px;
@@ -635,7 +635,7 @@ button {
 }
 
 
-/** end clients section **/
+/** end services section **/
 
 
 /** contact section **/
